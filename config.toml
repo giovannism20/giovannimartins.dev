@@ -1,3 +1,66 @@
 baseURL = 'https://giovannimartins.dev/'
 languageCode = 'pt-br'
-title = 'Personal Website'
+title = 'Giovanni Martins'
+theme = "keepit"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[params]
+    author = "Giovanni Martins"
+    subtitle = "de omnibus dubitandum est"
+    cdn_url = ""
+    home_mode = ""
+    dateFormatToUse = ""
+    
+    google_verification = ""
+
+    avatar = "/images/me/avatar.jpeg"
+    socialShare = true
+
+    description = "Just a personal website"
+    keywords = ""
+
+    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.social]
+    GitHub = "GiovanniSM20"
+    Linkedin = "giovanni-martins"
+    Email   = "giovannimartins2000@gmail.com"
+    Gitlab = "giovannism20"
+    Reddit = "martins_giovanni"
+    #Codepen = "xxxx"
+    #Bitbucket = "xxxx"
+    Stackoverflow = "6398473/martins-giovanni"
+    #Weibo = "xxxx"
+    #Odnoklassniki = "xxxx"
+    #VKontakte = "xxxx"
+    #Flickr = "xxxx"
+    #Xing = "xxxx"
+    #Snapchat = "xxxx"
+    #Soundcloud = "xxxx"
+    #Spotify = "xxxx"
+    Goodreads = "48760650-giovanni"
+    Strava = "xxxx"
+    Mastodon = "xxxx"
+
+[params.share]
+Twitter = true
+Facebook = true
+#Reddit = true
+Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+#Weibo = true
