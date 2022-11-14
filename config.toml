@@ -7,7 +7,7 @@ enableRobotsTXT = true
 defaultContentLanguage = "en"
 Paginate = 10
 preserveTaxonomyNames = true
-googleAnalytics = "G-H6C4G4FDCH"
+googleAnalytics = "G-19X98TBNPF"
 
 [menu]
   [[menu.main]]
