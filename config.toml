@@ -33,11 +33,9 @@ googleAnalytics = "G-19X98TBNPF"
     Linkedin = "giovanni-martins"
     Email   = "giovannimartins2000@gmail.com"
     Gitlab = "giovannism20"
-    Reddit = "martins_giovanni"
     Stackoverflow = "6398473/martins-giovanni"
     Goodreads = "48760650-giovanni"
-    Strava = "xxxx"
-    Mastodon = "xxxx"
+    Strava = "11799379"
 
   [params.share]
     Twitter = true
