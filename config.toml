@@ -1,9 +1,13 @@
 baseURL = "https://giovannimartins.dev/"
-languageCode = "pt-br"
 title = "Giovanni Martins"
 theme = "keepit"
 copyright = "2022 © Giovanni Martins"
+enableEmoji = true
 enableRobotsTXT = true
+defaultContentLanguage = "en"
+Paginate = 10
+preserveTaxonomyNames = true
+googleAnalytics = "G-H6C4G4FDCH"
 
 [menu]
   [[menu.main]]
@@ -21,14 +25,8 @@ enableRobotsTXT = true
   subtitle = "Software Engineer @ Conviso Application Security"
   subtitle_additional = "Ruby, Typescript, AppSec, Docker, Dapr and more..."
   subtitle_additional_2 = "de omnibus dubitandum est"
-  
-  avatar = "chicken.png"
+  description = "Giovanni Martins is a software engineer with a passion for learning new things and sharing knowledge."
   socialShare = true
-
-  description = "Just a personal website"
-  keywords = ""
-
-  license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   [params.social]
     GitHub = "GiovanniSM20"
@@ -47,9 +45,18 @@ enableRobotsTXT = true
     Linkedin = true
     Instagram = true
 
-[params.logo]
-  url = "https://giovannimartins.dev/"
-  src = "chicken.png"
-  alt = "Giovanni Martins"
-  width = 127
-  height = 40
+  [params.logo]
+    url = "static/chicken.jpeg"
+    width = 127
+    height = 40
+
+[languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
+
+  [languages.pt]
+    lang = "pt"
+    languageName = "Português"
+    weight = 2
