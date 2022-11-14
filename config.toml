@@ -1,29 +1,28 @@
-baseURL = 'https://giovannimartins.dev/'
-languageCode = 'pt-br'
-title = 'Giovanni Martins'
+baseURL = "https://giovannimartins.dev/"
+languageCode = "pt-br"
+title = "Giovanni Martins"
 theme = "keepit"
+copyright = "2022 © Giovanni Martins"
+enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "About"
+    url = "/about"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Resume"
+    url = "/resume"
     weight = 2
 
 [params]
   author = "Giovanni Martins"
-  subtitle = "de omnibus dubitandum est"
-  cdn_url = ""
-  home_mode = ""
-  dateFormatToUse = ""
+  subtitle = "Software Engineer @ Conviso Application Security"
+  subtitle_additional = "Ruby, Typescript, AppSec, Docker, Dapr and more..."
+  subtitle_additional_2 = "de omnibus dubitandum est"
   
-  google_verification = ""
-
-  avatar = "resources/images/chicken.png"
+  avatar = "chicken.png"
   socialShare = true
 
   description = "Just a personal website"
@@ -31,19 +30,26 @@ theme = "keepit"
 
   license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
-[params.social]
-  GitHub = "GiovanniSM20"
-  Linkedin = "giovanni-martins"
-  Email   = "giovannimartins2000@gmail.com"
-  Gitlab = "giovannism20"
-  Reddit = "martins_giovanni"
-  Stackoverflow = "6398473/martins-giovanni"
-  Goodreads = "48760650-giovanni"
-  Strava = "xxxx"
-  Mastodon = "xxxx"
+  [params.social]
+    GitHub = "GiovanniSM20"
+    Linkedin = "giovanni-martins"
+    Email   = "giovannimartins2000@gmail.com"
+    Gitlab = "giovannism20"
+    Reddit = "martins_giovanni"
+    Stackoverflow = "6398473/martins-giovanni"
+    Goodreads = "48760650-giovanni"
+    Strava = "xxxx"
+    Mastodon = "xxxx"
 
-[params.share]
-  Twitter = true
-  Facebook = true
-  Linkedin = true
-  Instagram = true
+  [params.share]
+    Twitter = true
+    Facebook = true
+    Linkedin = true
+    Instagram = true
+
+[params.logo]
+  url = "https://giovannimartins.dev/"
+  src = "chicken.png"
+  alt = "Giovanni Martins"
+  width = 127
+  height = 40
