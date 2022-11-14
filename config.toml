@@ -15,35 +15,35 @@ theme = "keepit"
     weight = 2
 
 [params]
-    author = "Giovanni Martins"
-    subtitle = "de omnibus dubitandum est"
-    cdn_url = ""
-    home_mode = ""
-    dateFormatToUse = ""
-    
-    google_verification = ""
+  author = "Giovanni Martins"
+  subtitle = "de omnibus dubitandum est"
+  cdn_url = ""
+  home_mode = ""
+  dateFormatToUse = ""
+  
+  google_verification = ""
 
-    avatar = "/images/me/avatar.jpeg"
-    socialShare = true
+  avatar = "resources/images/chicken.png"
+  socialShare = true
 
-    description = "Just a personal website"
-    keywords = ""
+  description = "Just a personal website"
+  keywords = ""
 
-    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.social]
-    GitHub = "GiovanniSM20"
-    Linkedin = "giovanni-martins"
-    Email   = "giovannimartins2000@gmail.com"
-    Gitlab = "giovannism20"
-    Reddit = "martins_giovanni"
-    Stackoverflow = "6398473/martins-giovanni"
-    Goodreads = "48760650-giovanni"
-    Strava = "xxxx"
-    Mastodon = "xxxx"
+  GitHub = "GiovanniSM20"
+  Linkedin = "giovanni-martins"
+  Email   = "giovannimartins2000@gmail.com"
+  Gitlab = "giovannism20"
+  Reddit = "martins_giovanni"
+  Stackoverflow = "6398473/martins-giovanni"
+  Goodreads = "48760650-giovanni"
+  Strava = "xxxx"
+  Mastodon = "xxxx"
 
 [params.share]
-Twitter = true
-Facebook = true
-Linkedin = true
-Instagram = true
+  Twitter = true
+  Facebook = true
+  Linkedin = true
+  Instagram = true
