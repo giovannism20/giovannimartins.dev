@@ -22,7 +22,7 @@ preserveTaxonomyNames = true
 [params]
   author = "Giovanni Martins"
   subtitle = "Software Engineer @ Conviso Application Security"
-  subtitle_additional = "Ruby, Typescript, AppSec, Docker, Dapr and more..."
+  subtitle_additional = "Ruby, Typescript, Docker and more..."
   subtitle_additional_2 = "de omnibus dubitandum est"
   description = "Giovanni Martins is a software engineer with a passion for learning new things and sharing knowledge."
   socialShare = true
@@ -31,10 +31,6 @@ preserveTaxonomyNames = true
     GitHub = "GiovanniSM20"
     Linkedin = "giovanni-martins"
     Email   = "giovannimartins2000@gmail.com"
-    Gitlab = "giovannism20"
-    Stackoverflow = "6398473/martins-giovanni"
-    Goodreads = "48760650-giovanni"
-    Strava = "11799379"
 
   [params.share]
     Twitter = true
