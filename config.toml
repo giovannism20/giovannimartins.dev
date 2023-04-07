@@ -30,6 +30,7 @@ preserveTaxonomyNames = true
   [params.social]
     GitHub = "GiovanniSM20"
     Linkedin = "giovanni-martins"
+    Twitter = "GiovanniStultus"
     Email   = "giovannimartins2000@gmail.com"
 
   [params.share]
