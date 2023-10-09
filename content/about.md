@@ -6,4 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
 name = "Giovanni Martins"
 +++
 
-Software Engineer focused on backend development based on Rio de Janeiro, Brazil. I'm passionate about technology and I love to learn new things. I'm currently working at @ Conviso Application Security as a Software Engineer.
+Software Engineer focused on backend development based on Rio de Janeiro, Brazil. I'm passionate about technology and I love to learn new things.
