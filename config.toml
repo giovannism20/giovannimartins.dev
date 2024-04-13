@@ -22,7 +22,6 @@ preserveTaxonomyNames = true
 [params]
   author = "Giovanni Martins"
   subtitle = "Software Engineer"
-  subtitle_additional = "Ruby and more..."
   subtitle_additional_2 = "de omnibus dubitandum est"
   description = "Giovanni Martins is a software engineer with a passion for learning new things and sharing knowledge."
   socialShare = true
